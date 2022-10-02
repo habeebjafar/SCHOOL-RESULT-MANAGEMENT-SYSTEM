@@ -1,0 +1,9 @@
+User-agent: *
+Disallow:/public_html/index.html
+Disallow:/public_html/about.html
+Disallow:/public_html/admission.html
+Disallow:/public_html/contact.html
+Disallow:/public_html/gallery.html
+Disallow:/public_html/school-anthem.html
+Disallow:/public_html/videogallery.html
+Disallow:/public_html/a_p.php

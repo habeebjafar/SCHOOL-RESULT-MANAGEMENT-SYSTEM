@@ -1,0 +1,18 @@
+@media print{
+	.header_bg,#mybd,.searchdiv,.myfooter,.centh5,#hidebutton{
+		display:none;
+		}
+	td,tr{
+		font-weight:bold;
+		
+		}
+.ereg{
+	font-size:30px;
+	}
+.elix{
+	font-size:25px;
+	}
+.british{
+	font-size:13px;
+	}
+	}

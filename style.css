@@ -1,0 +1,127 @@
+
+
+.ereg
+{
+    font-family: ARIAL BLACK;
+    color: #01A2A6;
+    margin-bottom: -10px;
+    font-size: 40px;
+}
+
+.elix
+{
+    font-family: Arial black;
+    font-weight: bold;
+    color: #E34B1D;
+}
+
+.british
+{
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: -10px;
+}
+
+.rightside
+{
+    text-align: center;
+    position: relative;
+    top: 10px;
+    right: 50px;
+}
+
+.rightside p
+{
+    font-weight: bold;
+    font-family: arial;
+}
+
+.topside
+{
+    border-bottom: 5px solid #01A2A6;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+}
+
+.regimg
+{
+    position: relative;
+    left: 20px;
+}
+
+.coverregister
+{
+    border: 2px solid black;
+    padding: 15px;
+    margin-top: 50px;
+}
+
+.note
+{
+    font-family: Trebuchet MS;
+    font-size: 15px;
+    line-height: 20px;
+    font-weight: 600;
+}
+
+.bold-td
+{
+    font-weight: bold;
+}
+
+.datecase
+{
+    text-align: right;
+}
+
+@media (max-width:987px)
+{
+    .rightside
+    {
+        right: 0px;
+    }
+    .regimg
+    {
+        left: 0px;
+    }
+}
+
+@media (max-width:767px)
+{
+    .topside
+    {
+        text-align: center;
+    }
+}
+
+.regbadge
+{
+    position: relative;
+    left: 40px;
+}
+
+@media (max-width:993px)
+{
+    .regbadge
+    {
+        left: 0px;
+        right: 0px;
+    }
+}
+
+@media (max-width:479px)
+{
+    .ereg
+    {
+        font-size: 25px;
+    }
+    .elix
+    {
+        font-size: 22px;
+    }
+    .british
+    {
+        font-size: 15px;
+    }
+}
+
